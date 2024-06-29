@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("CAAWebClientLoggingEventFlow",["$InternalEnum"],(function(a,b,c,d,e,f){"use strict";a=b("$InternalEnum")({LOGIN_MANUAL:"login_manual",LOGIN_SPI:"login_spi",CHECKPOINT:"checkpoint"});c=b("$InternalEnum")({AYMH:"aymh"});d=b("$InternalEnum")({ACCOUNT_RECOVERY:"account_recovery"});f.CAAWebLoginClientLoggingEventFlow=a;f.CAAWebAYMHClientLoggingEventFlow=c;f.CAAWebARClientLoggingEventFlow=d}),66);
